@@ -1,3 +1,5 @@
+This app is about Insta Filters
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OjasviBhargava/InstagramFilters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
